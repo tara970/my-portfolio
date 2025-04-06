@@ -1,0 +1,13 @@
+.App{
+    margin-top: 15px;
+}
+
+.MuiPaper-root{
+    border-radius: 30px !important;
+}
+
+.MuiToolbar-root{
+    border-radius: 30px !important;
+    min-height: auto !important;
+    position: relative !important;
+}
