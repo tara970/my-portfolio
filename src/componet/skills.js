@@ -11,7 +11,8 @@ function Skills() {
     {name:'next' , level: 30},
     {name:'material ui' , level: 50},
     {name:'css' , level: 70},
-    {name:'context api & redax' , level: 50}
+    {name:'context api & redax' , level: 50},
+    {name:'tailwind' , level: 35}
   ];
   
   return (
